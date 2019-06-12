@@ -1,4 +1,4 @@
-package DuckBehaviors;
+package DuckBehaviors.FlyBehaviors;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly(){

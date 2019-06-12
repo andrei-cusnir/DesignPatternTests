@@ -1,4 +1,4 @@
-package DuckBehaviors;
+package DuckBehaviors.QuackBehaviors;
 
 public class MuteQuack implements QuackBehavior {
     @Override

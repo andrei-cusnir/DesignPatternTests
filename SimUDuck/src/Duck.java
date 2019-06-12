@@ -1,5 +1,5 @@
-import DuckBehaviors.FlyBehavior;
-import DuckBehaviors.QuackBehavior;
+import DuckBehaviors.FlyBehaviors.FlyBehavior;
+import DuckBehaviors.QuackBehaviors.QuackBehavior;
 
 public  abstract class Duck {
     FlyBehavior flyBehavior;    // flyable interface

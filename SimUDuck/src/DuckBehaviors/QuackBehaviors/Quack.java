@@ -1,4 +1,4 @@
-package DuckBehaviors;
+package DuckBehaviors.QuackBehaviors;
 
 public class Quack implements QuackBehavior{
     @Override

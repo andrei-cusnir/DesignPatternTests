@@ -1,4 +1,4 @@
-import DuckBehaviors.FlyRocketPowered;
+import DuckBehaviors.FlyBehaviors.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

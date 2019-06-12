@@ -1,4 +1,4 @@
-package DuckBehaviors;
+package DuckBehaviors.FlyBehaviors;
 
 public class FlyRocketPowered implements FlyBehavior {
 

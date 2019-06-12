@@ -1,4 +1,4 @@
-package DuckBehaviors;
+package DuckBehaviors.QuackBehaviors;
 
 public class Squeak implements QuackBehavior {
     @Override
