@@ -2,19 +2,19 @@ import DuckBehaviors.FlyBehavior;
 import DuckBehaviors.QuackBehavior;
 
 public  abstract class Duck {
-    FlyBehavior flyBehavior;
-    QuackBehavior quackBehavior;
-    public void setFlyBehavior(FlyBehavior fb){
+    FlyBehavior flyBehavior;    // flyable interface
+    QuackBehavior quackBehavior;    // quackable interface
+    public void setFlyBehavior(FlyBehavior fb){     //possibility to set other flyable class to already created duck
         flyBehavior = fb;
     }
-    public void setQuackBehavior(QuackBehavior qb){
+    public void setQuackBehavior(QuackBehavior qb){     //possibility to set other quackable class to already created duck
         quackBehavior = qb;
     }
 
-    public void performQuack(){
+    public void performQuack(){     //possibility to quack
         quackBehavior.quack();
     }
-    public void performFly(){
+    public void performFly(){       //possibility to fly
         flyBehavior.fly();
     }
 
