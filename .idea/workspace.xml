@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afef1f53-f1a8-4e1b-a6c2-b40ed4ae6dec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DesignPatternTests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/file.template.settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/SimUDuck.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimUDuck/src/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyRocketPowered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimUDuck/src/MiniDuckSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/SimUDuck/src/MiniDuckSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimUDuck/SimUDuck.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimUDuck/The Strategy Pattern.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/SimUDuck/src/ModelDuck.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#221#222#0" expanded="true" />
@@ -81,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyRocketPowered.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
@@ -103,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyNoWay.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#93#94#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -116,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/SimUDuck/src/MallardDuck.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/MuteQuack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
               <folding>
                 <element signature="e#112#113#0" expanded="true" />
                 <element signature="e#148#149#0" expanded="true" />
@@ -154,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyWithWings.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#64#65#0" expanded="true" />
                 <element signature="e#112#113#0" expanded="true" />
@@ -237,13 +220,6 @@
               <item name="SimUDuck" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPatternTests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatternTests" type="462c0819:PsiDirectoryNode" />
-              <item name="SimUDuck" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DuckBehaviors" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -280,7 +256,7 @@
   <component name="RunManager" selected="Application.MiniDuckSimulator">
     <configuration name="MiniDuckSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MiniDuckSimulator" />
-      <module name="SimUDuck" />
+      <module name="The Strategy Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -332,9 +308,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1975" y="25" width="1865" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25453547" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25453547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -349,7 +324,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49972513" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49972513" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002749" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32937366" />
@@ -439,7 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimUDuck/SimUDuck.iml">
+    <entry file="file://$PROJECT_DIR$/SimUDuck/The Strategy Pattern.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/Quack.java">
@@ -463,7 +438,7 @@
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/MuteQuack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#148#149#0" expanded="true" />
@@ -485,7 +460,7 @@
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyWithWings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#64#65#0" expanded="true" />
             <element signature="e#112#113#0" expanded="true" />
@@ -503,7 +478,7 @@
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyNoWay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
@@ -514,7 +489,7 @@
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/ModelDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#221#222#0" expanded="true" />
@@ -526,7 +501,7 @@
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/DuckBehaviors/FlyRocketPowered.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
@@ -544,7 +519,7 @@
     <entry file="file://$PROJECT_DIR$/SimUDuck/src/MallardDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
